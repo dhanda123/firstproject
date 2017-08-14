@@ -20,7 +20,8 @@ public void startdriver()
 public void close()
 {
 	driver.quit();
-	System.out.println("sud");
+	System.out.println("yatin");
+	System.out.println("manaoj");
 }
 
 
