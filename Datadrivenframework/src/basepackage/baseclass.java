@@ -20,6 +20,7 @@ public void startdriver()
 public void close()
 {
 	driver.quit();
+	System.out.println("sud");
 }
 
 
